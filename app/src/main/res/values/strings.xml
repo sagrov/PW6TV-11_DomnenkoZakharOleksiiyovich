@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Task_6</string>
+    <string name="title_home">Task 1</string>
+    <string name="title_dashboard">Task 2</string>
+    <string name="title_notifications">Task 3</string>
+
+    <string name="nomPotEp">Номінальна потужність ( Шліфувальний верстат): Рн, кВт</string>
+    <string name="koefVik">Коефіцієнт використання (Полірувальний верстат): КВ</string>
+    <string name="koefReakPot">Коефіцієнт реактивної потужності (Циркулярна пила):</string>
+
+</resources>
